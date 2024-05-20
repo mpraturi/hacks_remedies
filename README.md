@@ -17,10 +17,3 @@ PR:<br>
 - Reflecting the audit on our GitHub & Website<br>
 - Audit displayed on your CoinMarketCap Listing (Only for Token)<br>
 
-
-<b>Get Your Smart Contract Security Audit Today!</b>
-
-Contact:<br>
-hello@softstack.io<br>
-https://t.me/softstack<br>
-https://softstack.io<br>
